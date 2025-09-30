@@ -1,0 +1,62 @@
+1. Defina um objetivo simples
+
+Antes de escolher a linguagem ou ferramenta, pense:
+
+O que você gostaria de criar?
+
+Uma calculadora?
+
+Um site pessoal?
+
+Um jogo simples?
+
+Um sistema de anotações?
+
+👉 Projetos pequenos e práticos são os melhores para aprender.
+
+2. Escolha a linguagem de programação
+
+Depende do tipo de projeto:
+
+Python → Ótima para iniciantes (fácil, versátil, usada em ciência de dados, IA, automação).
+
+JavaScript + HTML + CSS → Ideal se você quer fazer sites.
+
+C# ou Java → Boas para quem pensa em aplicações desktop ou games.
+
+Se você não tem preferência ainda, recomendo Python para começar.
+
+3. Monte o ambiente de desenvolvimento
+
+Baixe e instale um editor de código (VS Code é o mais popular).
+
+Instale a linguagem escolhida (por exemplo, o Python
+).
+
+Aprenda a rodar seu código (terminal, console ou botão "Run").
+
+4. Comece pequeno e vá expandindo
+
+Exemplo em Python:
+
+Projeto 1: "Hello, World!" (mostrar mensagem na tela).
+
+Projeto 2: Calculadora de soma/subtração.
+
+Projeto 3: Jogo da adivinhação (adivinhar número aleatório).
+
+Projeto 4: Bloco de notas (ler e salvar texto em arquivos).
+
+5. Use Git/GitHub desde cedo
+
+Instale o Git e crie uma conta no GitHub.
+
+Versionar seu código desde o início ajuda a aprender boas práticas e ter um portfólio.
+
+6. Busque referências e pratique
+
+Tutoriais no YouTube ou cursos curtos.
+
+Documentação da linguagem.
+
+Copiar pequenos projetos prontos e depois tentar criar o seu do zero.
